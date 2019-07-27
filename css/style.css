@@ -336,17 +336,17 @@ footer .social i {
   color: #00e360;
 }
 
-/* Namad */
-.namad img {
+/* Symbols */
+.symbols img {
   width: 90%;
   border-radius: 15px;
 }
 
-.namad .col-md-6 {
+.symbols .col-md-6 {
   padding: 0;
 }
 
-.namad .row:first-child {
+.symbols .row:first-child {
   margin-bottom: 0.5rem;
 }
 
