@@ -378,6 +378,16 @@ footer .social i {
   .menu .col-sm-3 {
     margin: 5px;
   }
+
+  .shop-list .card {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  .shop-list .card .col-md-4 img {
+    height: 250px;
+  }
+
   .green .col-sm-6 {
     margin-bottom: 1rem;
   }
@@ -406,6 +416,15 @@ footer .social i {
   #introduction button {
     padding: 10px 25px;
   }
+
+  .shop-list .card {
+    height: 86%;
+  }
+
+  .shop-list .card .col-md-4 img {
+    height: 250px;
+  }
+
   .how-use .col-sm-6 {
     margin-bottom: 1rem;
   }
