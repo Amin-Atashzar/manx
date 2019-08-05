@@ -1,12 +1,12 @@
 @font-face {
   font-family: "AIranianSans";
-  src: url("../fonts/IranianSans.eot"); /* IE9 Compat Modes */
-  src: url("../fonts/IranianSans.eot?#iefix") format("embedded-opentype"),
-    /* IE6-IE8 */ url("../fonts/IranianSans.otf") format("opentype"),
-    /* Open Type Font */ url("../fonts/IranianSans.svg") format("svg"),
-    /* Legacy iOS */ url("../fonts/IranianSans.ttf") format("truetype"),
-    /* Safari, Android, iOS */ url("../fonts/IranianSans.woff") format("woff"),
-    /* Modern Browsers */ url("../fonts/IranianSans.woff2") format("woff2"); /* Modern Browsers */
+  src: url("../webfonts/IranianSans.eot"); /* IE9 Compat Modes */
+  src: url("../webfonts/IranianSans.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../webfonts/IranianSans.otf") format("opentype"),
+    /* Open Type Font */ url("../webfonts/IranianSans.svg") format("svg"),
+    /* Legacy iOS */ url("../webfonts/IranianSans.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("../webfonts/IranianSans.woff") format("woff"),
+    /* Modern Browsers */ url("../webfonts/IranianSans.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
