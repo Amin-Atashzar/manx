@@ -258,6 +258,11 @@ nav div.my-2 button:last-child {
   margin-bottom: 3rem;
 }
 .green i {
+  font-size: 3rem;
+  margin-bottom: 0.6rem;
+}
+
+.counter {
   font-size: 2rem;
 }
 
